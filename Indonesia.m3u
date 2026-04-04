@@ -45,4 +45,5 @@ http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" group-title="Indonesia🇮🇩", IDX CHANNEL
 http://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
-
+#EXTINF:-1 tvg-logo="" group-title="Indonesia🇮🇩", TVONE
+http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
