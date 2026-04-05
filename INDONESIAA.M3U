@@ -71,3 +71,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Indonesia🇮🇩", METRO TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id" tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="Indonesia🇮🇩", MENTARI TV
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/file/stream.mpd
