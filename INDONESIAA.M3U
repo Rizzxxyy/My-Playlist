@@ -75,11 +75,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id" tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="Indonesia🇮🇩", MENTARI TV
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/file/stream.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  ANTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png" group-title="Indonesia🇮🇩",ANTV
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  ANTV" tvg-logo="http:/zal/www.dens.tv/images/channel-logo/8.jpg" group-title="Indonesia🇮🇩",ANTV
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165776
 
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  TransTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png" group-title="Indonesia🇮🇩",TransTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http:/zal/www.dens.tv/images/channel-logo/8.jpg" group-title="Indonesia🇮🇩",ANTV Alternatif 
+http://210.210.155.35/session/a19bb9a0-c886-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  TransTV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia🇮🇩",TransTV
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165872
 
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  Trans7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png" group-title="Indonesia🇮🇩",Trans7
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  Trans7" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="Indonesia🇮🇩",Trans7
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165871
